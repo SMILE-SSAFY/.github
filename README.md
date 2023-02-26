@@ -132,13 +132,14 @@
 
 ## :five:​ WIKI
 ```
-👉 Team Rules(Git, Coding Convention) 및 회의록
+👉 Team Rules(Git, Coding Convention) 및 구현 
 ```
-- [HOME](https://lab.ssafy.com/s08-webmobile4-sub1/S08P11D102/-/wikis/Home)
-  - [1. Team Rules](https://lab.ssafy.com/s08-webmobile4-sub1/S08P11D102/-/wikis/1.-Team-Rules)
-  - [2. Android Coding Convention](https://lab.ssafy.com/s08-webmobile4-sub1/S08P11D102/-/wikis/2.-Android-Coding-Convention)
-  - [3. Server Coding Convention]()
-  - [4. 회의록]()
+- [HOME](https://github.com/SMILE-SSAFY/.github/wiki)
+  - [1. Team Rules](https://github.com/SMILE-SSAFY/.github/wiki/1.-Team-Rules)
+  - [2. Android Coding Convention](https://github.com/SMILE-SSAFY/.github/wiki/2.-Android-Coding-Convention)
+  - [3. Server Coding Convention](https://github.com/SMILE-SSAFY/.github/wiki/3.-Server-Coding-Convention)
+  - [4. Android 구현 내용](https://github.com/SMILE-SSAFY/.github/wiki/4.-Android-Content)
+  - [5. Server 구현 내용](https://github.com/SMILE-SSAFY/.github/wiki/5.-Server-Content)
 
 
 <br>
