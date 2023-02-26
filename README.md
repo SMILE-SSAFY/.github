@@ -1,6 +1,6 @@
 # ​🧡📷스마일(​SMILE)📷🧡
 
-![img](./image/logo.PNG)
+![img](./image/logo.PNG.gif)
 
 
 - SSAFY 8th PJT **Team D102**​ 🌞
