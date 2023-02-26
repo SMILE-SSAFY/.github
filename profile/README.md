@@ -110,8 +110,8 @@
         <td><a href="https://github.com/minha721">@minha721</a></td>
     </tr>
     <tr>
-        <td><img src="../image/profile_jiyun.jpeg" width="300px"/></td>
-        <td><img src="../image/profile_minha.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/blob/main/image/profile_jiyun.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/blob/main/image/profile_minha.jpeg" width="300px"/></td>
     </tr>
     <tr>
         <td>Android Dev</td>
@@ -147,9 +147,9 @@
         <td><a href="https://github.com/RUNGOAT">@RUNGOAT</a></td>
     </tr>
     <tr>
-        <td><img src="../image/profile_jungeun.jpeg" width="300px"/></td>
-        <td><img src="../image/profile_ppitibbaticuttie_minchul.jpeg" width="300px"/></td>
-        <td><img src="../image/profile_jaegun.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/blob/main/image/profile_jungeun.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/blob/main/image/profile_ppitibbaticuttie_minchul.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/blob/main/image/profile_jaegun.jpeg" width="300px"/></td>
     </tr>
     <tr>
         <td>Server Dev</td>
