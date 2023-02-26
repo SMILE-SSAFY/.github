@@ -14,8 +14,9 @@
 [:one:​ Specification](#one-specification)<br>
 [:two:​ Flow Chart](#two-flow-chart)<br>
 [:three:​ ERD](#three-erd)<br>
-[:four:​ WIKI](#four-wiki)<br>
-[:five:​ Contributor](#five-contributor)<br>
+[:four:​ Server Architecture](#four-server-architecture)<br>
+[:five:​ WIKI](#five-wiki)<br>
+[:six:​ Contributor](#six-contributor)<br>
 
 
 
@@ -121,7 +122,15 @@
 
 <br>
 
-## :four:​ WIKI
+## :four:​ Server Architecture
+
+![img](./image/server_architecture.png)
+
+
+
+<br>
+
+## :five:​ WIKI
 ```
 👉 Team Rules(Git, Coding Convention) 및 회의록
 ```
@@ -135,7 +144,7 @@
 <br>
 
 
-## :five:​ Contributor
+## :six:​ Contributor
 
 ```
 👉 팀원 소개와 역할 분담
