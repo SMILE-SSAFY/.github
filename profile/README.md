@@ -1,6 +1,6 @@
 # ​🧡📷스마일(​SMILE)📷🧡
 
-![img](../image/logo.PNG)
+![img](https://github.com/SMILE-SSAFY/.github/blob/main/image/logo.PNG)
 
 
 - SSAFY 8th PJT **Team D102**​ 🌞
@@ -65,7 +65,7 @@
 
 ## :two:​ Flow Chart
 
-![img](../image/flow_chart.png)
+![img](https://github.com/SMILE-SSAFY/.github/blob/main/image/flow_chart.png)
 
 
 
@@ -73,7 +73,7 @@
 
 ## :three:​ ERD
 
-![img](../image/erd.png)
+![img](https://github.com/SMILE-SSAFY/.github/blob/main/image/erd.png)
 
 
 
