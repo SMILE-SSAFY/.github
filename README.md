@@ -23,7 +23,9 @@
 <br>
 
 ## ​:one:​ Specification
-
+```
+👉 Android
+```
 <table class="tg">
 <tbody>
   <tr>
@@ -50,6 +52,46 @@
 <tr>
     <td><b>Third Party Library</b></td>
     <td> - - - </td>
+
+</tr>
+<tr>
+    <td><b>Other Tool</b></td>
+<td>Notion, Slack</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+```
+👉 Server
+```
+<table class="tg">
+<tbody>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>MVC</td>
+  </tr>
+<tr>
+    <td><b>Design Pattern</b></td>
+<td>Builder Pattern/Singleton Pattern</td>
+</tr>
+<tr>
+    <td><b>DB</b></td>
+<td>MySQL 8.0.23</td>
+</tr>
+<tr>
+    <td><b>Dependency Injection</b></td>
+<td>Gradle 7.6</td>
+</tr>
+<tr>
+    <td><b>Strategy</b></td>
+<td>Git Flow</td>
+</tr>
+
+<tr>
+    <td><b>Third Party Library</b></td>
+    <td> OAuth2, Kakao API, Google Cloud API, coolsms, </td>
 
 </tr>
 <tr>
