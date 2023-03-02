@@ -166,8 +166,8 @@
         <td><img src="./image/profile_minha.jpeg" width="300px"/></td>
     </tr>
     <tr>
-        <td>Android Dev</td>
-        <td>Android Dev</td>
+        <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/4.-Android-Content">Android Dev</a></td>
+        <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/4.-Android-Content">Android Dev</a></td>
     </tr>
     <tr>
         <td>작가관리<br>
@@ -204,9 +204,9 @@
         <td><img src="./image/profile_jaegun.jpeg" width="300px"/></td>
     </tr>
     <tr>
-        <td>Server Dev</td>
-        <td>Server Dev</td>
-        <td>Server Dev</td>
+        <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/5.-Server-Content">Server Dev</a></td>
+        <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/5.-Server-Content">Server Dev</a></td>
+        <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/5.-Server-Content">Server Dev</a></td>
     </tr>
     <tr>
         <td>작가관리<br>
