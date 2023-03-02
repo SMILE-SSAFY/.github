@@ -13,9 +13,9 @@
 # :green_book:​Contents
 
 [:one:​ Specification](#one-specification)<br>
-[:two:​ Flow Chart](#two-flow-chart)<br>
-[:three:​ ERD](#three-erd)<br>
-[:four:​ Server Architecture](#four-server-architecture)<br>
+[:two:​ System Architecture](#system-architecture)<br>
+[:three:​ Flow Chart](#three-flow-chart)<br>
+[:four:​ ERD](#four-erd)<br>
 [:five:​ WIKI](#five-wiki)<br>
 [:six:​ Contributor](#six-contributor)<br>
 
@@ -32,33 +32,31 @@
 <tbody>
   <tr>
     <td><b>Architecture</b></td>
-    <td>MVVM</td>
+    <td>Clean Architecture, MVVM</td>
   </tr>
 <tr>
     <td><b>Design Pattern</b></td>
-<td>Singleton Pattern</td>
+<td>SSA(Single-Activity-Architecture), Singleton</td>
 </tr>
 <tr>
     <td><b>Jetpack Components</b></td>
-<td>DataBinding, LiveData, ViewModel, Lifecycle</td>
+<td>Navigation Component, ViewBinding, LiveData, ViewModel, Lifecycle, Room/SQLite</td>
 </tr>
 <tr>
     <td><b>Network</b></td>
-<td>OkHttp, Retrofit2</td>
+<td>Retrofit2, OkHttp</td>
 </tr>
-<tr>
-    <td><b>Strategy</b></td>
-<td>Git Flow</td>
-</tr>
-
 <tr>
     <td><b>Third Party Library</b></td>
-    <td> - - - </td>
-
+    <td>Coroutine, Glide, Image Cropper, TedPermission, Lottie, Spin-kit, Naver map API, Kakao API, BootPay API Firebase(FCM & Hosting)</td>
 </tr>
 <tr>
     <td><b>Other Tool</b></td>
-<td>Notion, Slack</td>
+<td>Jira, Git, Notion, Slack, Figma, Zeplin</td>
+</tr>
+<tr>
+    <td><b>Strategy</b></td>
+<td>Jira & Git Flow</td>
 </tr>
 </tbody>
 </table>
@@ -107,7 +105,15 @@
 
 <br>
 
-## :two:​ Flow Chart
+
+## :two:​ System Architecture
+
+![img](./image/server_architecture.png)
+
+
+<br>
+
+## :three:​ Flow Chart
 
 ![img](./image/flow_chart.png)
 
@@ -115,7 +121,7 @@
 
 <br>
 
-## :three:​ ERD
+## :four:​ ERD
 
 ![img](./image/erd.png)
 
@@ -123,13 +129,6 @@
 
 <br>
 
-## :four:​ Server Architecture
-
-![img](./image/server_architecture.png)
-
-
-
-<br>
 
 ## :five:​ WIKI
 ```
