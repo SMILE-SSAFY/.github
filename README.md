@@ -179,14 +179,16 @@
         <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.11-작가%20리뷰">작가 리뷰 등록/수정/조회</a><br>
         <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.12-이미지%20유틸">이미지 유틸(ImageUtils)</a><br>
         <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.13-권한%20처리">권한 처리(PermissionUtils)</a><br></td>
-      
-        <td>회원관리<br>
+      <td>스플래시<br>
+        회원가입<br>
+        로그인<br>
         주변 작가 목록<br>
-        작가/게시글 검색<br>
-        포트폴리오/게시글 조회<br>
-        예약, 예약 알림, 결제<br>
-        마이페이지<br>
+        작가 포트폴리오 조회<br>
+        게시글 조회<br>
+        검색(작가, 게시글)<br>
+        예약 및 결제<br>
         작가 추천</td>
+        커스텀 뷰</td>
     </tr>
 </tbody>
 </table>
