@@ -5,7 +5,8 @@
 
 - SSAFY 8th PJT **Team D102**​ 🌞
 - 프로젝트 기간 : `2023.01.03` ~ `2023.02.17`
-
+- 구성원 : 이지윤, 이민하, 김정은, 신민철, 서재건  
+- 팀 노션 : <a href="https://www.notion.so/ijiy00nlee/SMILE-0731e2debadf45dbbb087fc82feb4c20">👉 스마일(SMILE) Notion 👈</a>
 
 <br>
 
