@@ -1,6 +1,6 @@
 # ​🧡📷스마일(​SMILE)📷🧡
 
-![img](./image/logo.PNG.gif)
+![img](https://github.com/SMILE-SSAFY/.github/tree/main/image/logo.PNG.gif)
 
 
 - SSAFY 8th PJT **Team D102**​ 🌞
@@ -13,7 +13,7 @@
 # :green_book:​Contents
 
 [:one:​ Specification](#one-specification)<br>
-[:two:​ System Architecture](#system-architecture)<br>
+[:two:​ System Architecture](#two-system-architecture)<br>
 [:three:​ Flow Chart](#three-flow-chart)<br>
 [:four:​ ERD](#four-erd)<br>
 [:five:​ WIKI](#five-wiki)<br>
@@ -108,14 +108,14 @@
 
 ## :two:​ System Architecture
 
-![img](./image/server_architecture.png)
+![img](https://github.com/SMILE-SSAFY/.github/tree/main/image/server_architecture.png)
 
 
 <br>
 
 ## :three:​ Flow Chart
 
-![img](./image/flow_chart.png)
+![img](https://github.com/SMILE-SSAFY/.github/tree/main/image/flow_chart.png)
 
 
 
@@ -123,7 +123,7 @@
 
 ## :four:​ ERD
 
-![img](./image/erd.png)
+![img](https://github.com/SMILE-SSAFY/.github/tree/main/image/erd.png)
 
 
 
@@ -162,8 +162,8 @@
         <td><a href="https://github.com/minha721">@minha721</a></td>
     </tr>
     <tr>
-        <td><img src="./image/profile_jiyun.jpeg" width="300px"/></td>
-        <td><img src="./image/profile_minha.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/tree/main/image/profile_jiyun.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/tree/main/image/profile_minha.jpeg" width="300px"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/4.-Android-Content">Android Dev</a></td>
@@ -204,9 +204,9 @@
         <td><a href="https://github.com/RUNGOAT">@RUNGOAT</a></td>
     </tr>
     <tr>
-        <td><img src="./image/profile_jungeun.jpeg" width="300px"/></td>
-        <td><img src="./image/profile_ppitibbaticuttie_minchul.jpeg" width="300px"/></td>
-        <td><img src="./image/profile_jaegun.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/tree/main/image/profile_jungeun.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/tree/main/image/profile_ppitibbaticuttie_minchul.jpeg" width="300px"/></td>
+        <td><img src="https://github.com/SMILE-SSAFY/.github/tree/main/image/profile_jaegun.jpeg" width="300px"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/5.-Server-Content">Server Dev</a></td>
