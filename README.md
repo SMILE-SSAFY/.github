@@ -170,12 +170,16 @@
         <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/4.-Android-Content">Android Dev</a></td>
     </tr>
     <tr>
-        <td>작가관리<br>
-        게시글, 리뷰 등록<br>
-        주변 게시글 목록(지도)<br>
-        주소 설정<br>
-        마이페이지<br>
-        작가 추천</td>
+        <td><a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.0-구조%20설계">구조 설계</a><br>
+        <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.4-주소록">주소록</a><br>
+        <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.5-작가%20포트폴리오">작가 포트폴리오 등록/수정</a><br>
+        <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.6-게시글%20및%20지도">주변 게시글 목록(지도)</a><br>
+        <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.6-게시글%20및%20지도">게시글 등록/수정</a><br>
+        <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.9-나의%20관심%20내역">나의 관심 내역</a><br>
+        <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.11-작가%20리뷰">작가 리뷰 등록/수정/조회</a><br>
+        <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.12-이미지%20유틸">이미지 유틸(ImageUtils)</a><br>
+        <a href="https://github.com/SMILE-SSAFY/.github/wiki/4.4.13-권한%20처리">권한 처리(PermissionUtils)</a><br></td>
+      
         <td>회원관리<br>
         주변 작가 목록<br>
         작가/게시글 검색<br>
